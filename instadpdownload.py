@@ -1,6 +1,7 @@
 '''
 Download Display Picture of an Instagram Account with Python
 Author: Gajendra Singh Thakur
+For more info visit:- http://http://gajendrasingh.tech/
 '''
 
 #import the necessary module!
